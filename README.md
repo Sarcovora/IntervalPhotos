@@ -1,7 +1,5 @@
 # IntervalPhotos
-
-## What is it?
-- Take a specified number of photos at a specified interval
+Simple program to take a specified number of photos at a specified interval
 
 ## Requirements
 - Needs python installed
