@@ -27,5 +27,4 @@ for i in range(nframes):
     cv2.imwrite('./Photos/img_'+str(trialNum).zfill(2)+'_'+str(i+1).zfill(4)+'.png', img)
     time.sleep(interval)
 
-cv2.imshow("preview", img)
 cap.release()
